@@ -1,0 +1,18 @@
+.main-content {
+    margin-top: 15px;
+}
+.button-add {
+    margin-bottom: 10px;
+    display: block;
+    margin-right: 10px;
+}
+.login-form {
+    margin: 20px 200px 0;
+}
+.card-for-news {
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.edit-news {
+    margin: 70px 200px 0;
+}
